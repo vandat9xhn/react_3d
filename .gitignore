@@ -9,6 +9,7 @@
 # production
 /dist
 # /image
+/ignore_assets
 
 # misc
 .DS_Store
